@@ -31,7 +31,7 @@ Una API sencilla (pero poderosa) construida con Python y Flask que te permite:
 
 git clone https://github.com/tuusuario/nombre-repo.git
 cd nombre-repo
-Instala los requirements:
+
 
 2. Instala los requirements:
 
